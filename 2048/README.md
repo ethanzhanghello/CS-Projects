@@ -8,7 +8,6 @@
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
 
@@ -80,12 +79,6 @@ Rebuilding a classic game from scratch was both a challenge and a learning oppor
   - When two tiles with the same number collide, they merge.
   - Keep merging tiles until you reach 2048!
 - When no moves are possible, the game ends.
-
----
-
-## 🖼️ Screenshots
-
-*(Insert screenshots of gameplay here – e.g., startup screen, winning state, game-over screen)*
 
 ---
 
